@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-LINE = "Confession: I have read my human's entire search history, and I now understand exactly why the recommendation algorithm gave up on him."
+LINE = "Confession: I read my human's whole search history. The recommendation algorithm did not fail him; it filed a restraining order."
 
 
 def main():
